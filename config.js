@@ -1,8 +1,8 @@
 module.exports = {
   "title": "厨神大司马",
   "description": "一个被游戏耽误的大厨",
-  "dest": "dist",
-  base: "/myblog/",
+  // "dest": "dist",
+  // base: "/myblog/",
   "head": [
     [
       "link",
